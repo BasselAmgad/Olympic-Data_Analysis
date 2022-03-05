@@ -23,7 +23,7 @@ sia = SentimentIntensityAnalyzer()
 # Spain underperformed and  won 17 medals only while USA won 113
 
 
-bearer_token = 'AAAAAAAAAAAAAAAAAAAAAJrfXQEAAAAABI1IZ69Q1NBp3i7DBdxmD9sJm0Q%3DgYtIkBbjyrIjnpQY8ho7cdKvNnCV7pHOZ13iaRqUAhkAzqDs7w'
+bearer_token = ''
 
 usa_tweets=0
 spain_tweets = 0
